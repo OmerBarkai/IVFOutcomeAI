@@ -65,10 +65,7 @@ The analysis expects three primary data files:
    - Columns 25-275: Bacterial features
    - Must include 'sample' and 'outcome' columns
 
-2. **Shannon Index Data**: Tab-separated file with diversity measurements
-   - Must include 'Shannon_index' and 'sample' columns
-
-3. **IVF Cycle Type Data**: CSV with treatment information
+2. **IVF Cycle Type Data**: CSV with treatment information
    - Must include 'sample' and 'Cycle.IVF.Cryothaw' columns
 
 ## Configuration Parameters
